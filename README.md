@@ -11,3 +11,7 @@ Simple program to get results from SauceNAO using their api
         - example: [1633373445123.jpg](https://cdn.discordapp.com/attachments/681523355576303627/895311255349395486/1633373445123.jpg)
     - (optional). Run `go build main.go` to compile it into a executable
 5. Results will be displayed in your terminal
+
+# Credits
+- [valyala](https://github.com/valyala) his his beautiful fastjson project
+- [manucorporat](https://github.com/manucorporat) for his `try` implementation for go
